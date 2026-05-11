@@ -1,4 +1,4 @@
-Based on the code you provided (sketch_nov20a.ino), here is a comprehensive README.md file tailored for your GitHub repository. It includes the features, hardware requirements, wiring instructions based on your pin definitions, and instructions on how to play.You can copy and paste the following markdown directly into your repository's README file.Arduino Nano Multi-Game Console 🎮A compact, retro-style handheld game console powered by an ArdArduino Nano Multi-Game Console 🎮
+Based on the code you provided (sketch_nov20a.ino), here is a comprehensive README.md file tailored for your GitHub repository. It includes the features, hardware requirements, wiring instructions based on your pin definitions, and instructions on how to play.You can copy and paste the following markdown directly into your repository's README file.Arduino Nano Multi-Game Console 🎮A compact, retro-style handheld game console powered by an ArdArduino Nano Multi-
 
 A compact, retro-style handheld game console powered by an Arduino Nano and an SSD1306 OLED display. This project features three classic games, a custom menu system, and supports both single-player and two-player modes.
 
